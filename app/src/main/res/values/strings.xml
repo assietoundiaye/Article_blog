@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Blog</string>
+    <string name="titre1">Simple Blog</string>
+    <string name="ajouter_un_article">Ajouter un Article</string>
+    <string name="contenue">Contenue</string>
+    <string name="close">fermer</string>
+    <string name="add_blog">Ajouter un  Blog</string>
+    <string name="text_blog_value" >Le roman explore aussi le sujet de la polygamie et le statut de la femme dans le contexte de la société et la famille.</string>
+    <string name="titre_value"> Titre</string>
+    <string name="textViewVlaue">Le roman explore aussi le sujet de la polygamie et le statut de la femme dans le contexte de la société et la famille.</string>
+    <string name="auteur">Auteur</string>
+    <string name="titre">Titre</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="samablog1">Simple Blog</string>
+    <string name="titre_blog">Titre Blog</string>
+    <string name="ecrit_par">Ecrit par :</string>
+    <string name="modou">Mariama BA</string>
+    <string name="_27_novembre_2002">27 Novembre 2002</string>
+    <string name="back_blog">back_blog</string>
+</resources>
